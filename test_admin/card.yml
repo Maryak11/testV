@@ -6,7 +6,7 @@ template: |
       class="card__image"
     />
     <div class="card__desc-wrapper">
-      <h2 class="card__title">Привет</h2>
+      <h2 class="card__title">Title</h2>
 
         
       <p class="card__text">
@@ -14,7 +14,7 @@ template: |
         of the card's content.
       </p>
       <div>
-        <button class="card__btn" @click="testMethod">qweqwe</button>
+        <button class="card__btn" @click="testMethod">Button</button>
       </div>
     </div>
   </div>
